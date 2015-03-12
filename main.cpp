@@ -4,10 +4,7 @@
 // Originator: Martino Henderson
 // Date: March 5, 2015 
 
-#include <iostream>
-#include <string>
-#include <fstream>
-#include <vector>
+#include "pr-main.h"
 
 using namespace std;
 
